@@ -45,7 +45,7 @@ This project uses weather and environmental data to train machine learning model
    ```
 4. Open the Jupyter Notebook:
    ```bash
-   jupyter notebook Ronak_Bansal_Solar_Power_Prediction.ipynb
+   jupyter notebook Solar_Power_Prediction.ipynb
    ```
 
 ## Usage
@@ -56,7 +56,7 @@ This project uses weather and environmental data to train machine learning model
 ## Project Structure
 ```
 ├── solar_power_generation.csv        # Dataset file
-├── Ronak_Bansal_Solar_Power_Prediction.ipynb  # Jupyter Notebook with code
+├── Solar_Power_Prediction.ipynb  # Jupyter Notebook with code
 ├── requirements.txt                  # List of dependencies
 ├── README.md                         # Project documentation
 ```
