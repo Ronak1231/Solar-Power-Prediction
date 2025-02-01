@@ -55,10 +55,13 @@ This project uses weather and environmental data to train machine learning model
 
 ## Project Structure
 ```
-├── solar_power_generation.csv        # Dataset file
-├── Solar_Power_Prediction.ipynb  # Jupyter Notebook with code
-├── requirements.txt                  # List of dependencies
-├── README.md                         # Project documentation
+├── solar_power_generation.csv                 # Dataset file
+├── Week 1
+    ├── Solar_Power_Prediction.ipynb           # Jupyter Notebook for week 1
+├── Week 2
+    ├── Solar_Power_Prediction_Week 2.ipynb    # Jupyter Notebook for week 2
+├── requirements.txt                           # List of dependencies
+├── README.md                                  # Project documentation
 ```
 
 ## Acknowledgements
