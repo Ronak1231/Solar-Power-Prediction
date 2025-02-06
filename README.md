@@ -151,4 +151,4 @@ If you encounter issues, create an issue in this repository.
 ---
 
 ## 📧 Contact  
-For inquiries or support, contact [Ronak Bansal](ronakbansal12345@gmail.com).
+For inquiries or support, contact [ronakbansal12345@gmail.com].
