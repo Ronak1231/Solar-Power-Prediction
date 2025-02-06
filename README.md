@@ -130,7 +130,7 @@ This project can be deployed on **AWS, Google Cloud, or Heroku**. Ensure API key
 ---
 
 ## ✍️ Author  
-[Ronak Bansal]
+Ronak Bansal
 
 ---
 
