@@ -70,9 +70,7 @@ solar-power-prediction/
 │   ├── requirements.txt                        # install this requirements
 │   ├── solar_power_generation.csv              # Dataset file
 │   ├── users.db                                # Stores user login data
-
-
-├── requirements.txt                           # List of dependencies
+├── LICENSE
 ├── README.md                                  # Project documentation
 ```
 
