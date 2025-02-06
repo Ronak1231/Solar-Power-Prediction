@@ -65,6 +65,13 @@ solar-power-prediction/
 │   ├── Solar_Power_Prediction.ipynb           # Jupyter Notebook for week 1
 ├── Week 2
 │   ├── Solar_Power_Prediction_Week 2.ipynb    # Jupyter Notebook for week 2
+├── Final Submission
+│   ├── app.py                                  # Main code 
+│   ├── requirements.txt                        # install this requirements
+│   ├── solar_power_generation.csv              # Dataset file
+│   ├── users.db                                # Stores user login data
+
+
 ├── requirements.txt                           # List of dependencies
 ├── README.md                                  # Project documentation
 ```
@@ -123,7 +130,7 @@ This project can be deployed on **AWS, Google Cloud, or Heroku**. Ensure API key
 ---
 
 ## ✍️ Author  
-[Your Name]
+[Ronak Bansal]
 
 ---
 
@@ -144,4 +151,4 @@ If you encounter issues, create an issue in this repository.
 ---
 
 ## 📧 Contact  
-For inquiries or support, contact [your-email@example.com].
+For inquiries or support, contact [ronakbansal12345@gmail.com].
