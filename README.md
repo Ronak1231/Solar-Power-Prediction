@@ -66,6 +66,7 @@ solar-power-prediction/
 ├── Week 2
 │   ├── Solar_Power_Prediction_Week 2.ipynb    # Jupyter Notebook for week 2
 ├── Final Submission
+│   ├── Solar Power Prediction Final Code.ipynb #Final ipynb code
 │   ├── app.py                                  # Main code 
 │   ├── requirements.txt                        # install this requirements
 │   ├── solar_power_generation.csv              # Dataset file
