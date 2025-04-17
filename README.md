@@ -1,7 +1,7 @@
 <h1 align="center">☀️🔋 Solar Power Prediction System - End-to-End ML Application</h1>
 
 <p align="center">
-This project implements an **end-to-end solar power prediction system** using **Streamlit** for the user interface and **Scikit-Learn** for machine learning. It predicts **solar power generation** based on historical meteorological data.
+This project implements an end-to-end solar power prediction system using Streamlit for the user interface and Scikit-Learn for machine learning. It predicts solar power generation based on historical meteorological data.
 </p>
 
 ---
